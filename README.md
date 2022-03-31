@@ -42,24 +42,25 @@
 
 </br>
 
-## [ My Techstack ]
+## [ Techstack ]
 Some of the tech stacks I've used and mastered
-
-<img src="assets/techstacks/html5.svg" alt="HTML 5" title="HTML 5"/>
-<img src="assets/techstacks/css3.svg" alt="CSS 3" title="CSS 3"/>
-<img src="assets/techstacks/javascript.svg" alt="Javascript" title="Javascript"/>
-<img src="assets/techstacks/typescript.svg" alt="Typescript" title="Typescript"/>
-<img src="assets/techstacks/webpack.svg" alt="Webpack" title="Webpack"/>
-<img src="assets/techstacks/reactjs.svg" alt="React JS" title="React JS"/>
-<img src="assets/techstacks/nextjs.svg" alt="Next JS" title="Next JS"/>
-<img src="assets/techstacks/tailwindcss.svg" alt="TailwindCSS" title="TailwindCSS"/>
-<img src="assets/techstacks/nodejs.svg" alt="Node JS" title="Node JS"/>
-<img src="assets/techstacks/postgresql.svg" alt="Postgresql" title="Postgresql"/>
-<img src="assets/techstacks/redis.svg" alt="Redis" title="Redis"/>
-<img src="assets/techstacks/firebase.svg" alt="Firebase" title="Firebase"/>
-<img src="assets/techstacks/jamstack.svg" alt="JAM Stack" title="JAM Stack"/>
-<img src="assets/techstacks/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code"/>
-<img src="assets/techstacks/figma.svg" alt="Figma" title="Figma"/>
+<div style="display:flex; gap: 8px; flex-wrap: wrap;">
+  <img src="assets/techstacks/html5.svg" alt="HTML 5" title="HTML 5"/>
+  <img src="assets/techstacks/css3.svg" alt="CSS 3" title="CSS 3"/>
+  <img src="assets/techstacks/javascript.svg" alt="Javascript" title="Javascript"/>
+  <img src="assets/techstacks/typescript.svg" alt="Typescript" title="Typescript"/>
+  <img src="assets/techstacks/webpack.svg" alt="Webpack" title="Webpack"/>
+  <img src="assets/techstacks/reactjs.svg" alt="React JS" title="React JS"/>
+  <img src="assets/techstacks/nextjs.svg" alt="Next JS" title="Next JS"/>
+  <img src="assets/techstacks/tailwindcss.svg" alt="TailwindCSS" title="TailwindCSS"/>
+  <img src="assets/techstacks/nodejs.svg" alt="Node JS" title="Node JS"/>
+  <img src="assets/techstacks/postgresql.svg" alt="Postgresql" title="Postgresql"/>
+  <img src="assets/techstacks/redis.svg" alt="Redis" title="Redis"/>
+  <img src="assets/techstacks/firebase.svg" alt="Firebase" title="Firebase"/>
+  <img src="assets/techstacks/jamstack.svg" alt="JAM Stack" title="JAM Stack"/>
+  <img src="assets/techstacks/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code"/>
+  <img src="assets/techstacks/figma.svg" alt="Figma" title="Figma"/>
+</div>
 </br>
 </br>
 
