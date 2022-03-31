@@ -61,7 +61,7 @@ Some of the tech stacks I've used and mastered
   <img src="assets/techstacks/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img src="assets/techstacks/figma.svg" alt="Figma" title="Figma"/>
 </div>
-</br>
+
 </br>
 
 > *Keep learning and improving skills*
