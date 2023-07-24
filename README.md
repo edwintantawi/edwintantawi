@@ -2,7 +2,7 @@
 
 👋 Hi There, I'm Edwin Tantawi from Indonesia.
 
-- 🧭 I’m currently working on Front-End with Javascript, Typescript, React-JS and Next-JS.
+- 🧭 I’m currently working on Front-End with [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Typescript](https://www.typescriptlang.org/), [React.js](https://react.dev/) and [Next.js](https://nextjs.org/).
 - 💾 Writing Back-End stuff with [Go lang](https://go.dev/) and [Node.js](https://nodejs.org/).
 - 👀 Interested and want to know more about [Solid.js](https://www.solidjs.com/) and [React Native](https://reactnative.dev/).
 - ☁️ Live in the cloud with [Google Cloud Platform](https://cloud.google.com/).
